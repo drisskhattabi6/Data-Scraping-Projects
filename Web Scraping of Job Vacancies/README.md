@@ -3,6 +3,9 @@
 ##### => This project is challenge from [Coursera project](https://www.coursera.org/learn/scrape-job-postings-data-analyst).
 I have scrap data from [indeed](indeed.com) with help Scrapfly.
 
+this is an image of data : 
+
+![](img1.png)
 
 ## Introduction
 
