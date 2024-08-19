@@ -35,4 +35,4 @@ you can install additional packages using `!pip install packagename` :
 - `!pip install markdownify`
 
 ## Note : 
-You can search for any job in any country by entring the values of those variables :  `job_title` and `country`.
+You can search for any job in any country by entering the values of those variables :  `job_title` and `country`.
