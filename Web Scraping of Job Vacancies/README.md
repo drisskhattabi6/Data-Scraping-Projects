@@ -19,7 +19,7 @@ Here are the main steps we'll follow in this project:
 
 ## Prerequisites
 
-Before starting this project, you should have some basic knowledge of Python programming and HTML structure. In addition, you need to create Scrapfly account to get API key, and you will use the following packages in your Python environment:
+you need to create Scrapfly account to get API key, and you will use the following packages in your Python environment:
 
 - scrapfly-sdk
 - BeautifulSoup
@@ -33,3 +33,6 @@ you can install additional packages using `!pip install packagename` :
 - `!pip install BeautifulSoup`
 - `!pip install pandas`
 - `!pip install markdownify`
+
+## Note : 
+You can search for any job in any country by entring the values of those variables :  `job_title` and `country`.
