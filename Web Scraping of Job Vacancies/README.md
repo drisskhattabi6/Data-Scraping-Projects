@@ -11,10 +11,12 @@ this is an image of data :
 
 In this project, we'll build a web scraper to extract job listings from a popular job search platform. We'll extract job titles, companies, locations, job descriptions, and other relevant information.
 
-Here are the main steps we'll follow in this project:
+Here are the main steps in this project:
 
-1. Write the Python code to extract job data from our job search platform
-2. Save the data to a CSV file
+1. get the html content using Scrapfly  API.
+2.  Parsing the webpage content  using BeautifulSoup.
+3. Extract job data from the content using BeautifulSoup methods.
+4. Save the data to a CSV file
 
 
 ## Prerequisites
@@ -35,4 +37,4 @@ you can install additional packages using `!pip install packagename` :
 - `!pip install markdownify`
 
 ## Note : 
-You can search for any job in any country by entering the values of those variables :  `job_title` and `country`.
+You can search for any job in any country by changing the values of those variables :  `query` and `location`.
