@@ -1,6 +1,8 @@
 # data-scraping-projects
 This Repo contains My Data Scraping Projects, There are : 
 
+- [Books to Scrape](https://github.com/drisskhattabi6/data-scraping-projects/tree/main/Books%20to%20Scrape)
+- [Quotes to Scrape](https://github.com/drisskhattabi6/data-scraping-projects/tree/main/Quotes%20to%20Scrape)
 - [Countries of the World](https://github.com/drisskhattabi6/data-scraping-projects/tree/main/Countries%20of%20the%20World) 
 - [Etsy Product](https://github.com/drisskhattabi6/data-scraping-projects/tree/main/Etsy%20Product) 
 - [Hockey Teams](https://github.com/drisskhattabi6/data-scraping-projects/tree/main/Hockey%20Teams) 
