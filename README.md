@@ -1,6 +1,6 @@
-# Data Scraping Projects
+# Data Scraping Tasks
 
-Welcome to the **Data Scraping Projects** repository! This repository showcases my data scraping projects, where I have used Python and various libraries (like `BeautifulSoup`, `Scrapy`, and `Requests`) to extract, process, and analyze data from the web. Each project is stored in its respective folder with detailed explanations, code, and datasets.
+Welcome to the **Data Scraping Tasks** repository! This repository showcases my data scraping Tasks, where I have used Python and various libraries (like `BeautifulSoup`, `Scrapy`, and `Requests`) to extract, process, and analyze data from the web. Each project is stored in its respective folder with detailed explanations, code, and datasets.
 
 ---
 
