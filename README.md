@@ -55,7 +55,7 @@ Similar to the previous project but includes additional attributes like growth r
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/drisskhattabi6/data-scraping-projects.git
+   git clone https://github.com/drisskhattabi6/Data-Scraping-Tasks.git
    ```
 2. Navigate to the desired project folder.
 3. Follow the instructions in the project's README file to run the scraping script.
